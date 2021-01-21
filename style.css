@@ -85,7 +85,7 @@ p {
     display: flex;
     justify-content: flex-end;
 }
-/* this is your new flex child. I've put a clipping mask in there, you can drop your image directly in or just replace with whatever you've like really */
+/* this is your new flex child. I've put a clipping mask in there, you can drop your image directly in or just replace with whatever you've like really
 .avatar-mask {
     width: 200px;
     height: 200px;
@@ -96,7 +96,7 @@ p {
 h1 {
     margin: 24px;
 }
-/* This is a very finely tuned shadow from my personal use elevation sustem. This is level 12 of 24 possible values. This will probably come up in class at some point but you can ask me more if you're curious */
+/* This is a very finely tuned shadow from my personal use elevation sustem. This is level 12 of 24 possible values. This will probably come up in class at some point but you can ask me more if you're curious
 .shadow-12 {
     box-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12);
 }
