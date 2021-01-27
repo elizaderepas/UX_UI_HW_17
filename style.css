@@ -142,3 +142,9 @@ button:hover {
     }
 }
 /* You can see these media queries in action by resizing your window */
+
+.footer {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 74px;
+}
